@@ -300,6 +300,7 @@ footer {
   }
   
   .about-us {
+    display: block;
     padding: 70px 6%;
   }
 }
